@@ -1,6 +1,7 @@
 # okx-smart-money-alpha-hunter
 This is a smart money trading skill with onchainOS as its core infrastructure, designed for real-world on-chain execution. Its key features are not aggressiveness, but rather "selectivity in hot topics, discipline in execution, and a balance between profit pursuit and exit quality."
 
+## 策略简介
 `okx-smart-money-alpha-hunter` 是一个基于 `onchainOS` 的链上现货自动交易 Skill，核心聚焦 `Solana` 和 `X Layer`，通过聪明钱/KOL/巨鲸信号发现高质量机会，并结合流动性、成交结构、持仓分布和风险扫描来决定是否执行交易。它不是简单追热点，而是更强调“能不能赚”和“后面能不能顺利卖掉”。
 
 ## 策略理念
